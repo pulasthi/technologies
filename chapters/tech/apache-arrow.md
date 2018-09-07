@@ -16,6 +16,6 @@ operation that allows modern processors to take advantage of this
 engine.  Performance is enhanced by grouping relevant data as close as
 possible in a column format.  Many programming languages are supported
 such a Java, C, C++, Python and it is anticipated that languages will
-be added as it grows.  It is still in early development but has
+be added as it grows.  It is still in early development but it has
 released a 0.1.0 build.
 
